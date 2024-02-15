@@ -1,5 +1,9 @@
+./miPrincipal/APPCadena.java
+./miPrincipal/APPMatriz.java
 ./miPrincipal/Principal.java
 ./miPrincipal/AppRational.java
 ./miPrincipal/Rational.java
 ./miPrincipal/PosicionIlegalException.java
+./miPrincipal/Cadena.java
+./miPrincipal/Matriz.java
 ./miTest/AppTest.java
